@@ -3,8 +3,9 @@ Hello World programs in many languages
 
 Current supported languages:
 * Batch
-* Python
-  * Python3
 * C
 * C++
+* JavaScript HTML *(although being quite incomplete)*
+* Python
+  * Python3
 * Ruby
